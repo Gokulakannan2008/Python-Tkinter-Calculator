@@ -117,7 +117,7 @@ def _add():
 
 
 def _multiplication():
-    update_entry("x")
+    update_entry("*")
 
 
 def _backspace():
